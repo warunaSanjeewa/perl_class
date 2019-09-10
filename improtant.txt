@@ -1,0 +1,7 @@
+new file addition
+
+	git add .
+	git commit -a -m "your commnet"
+	git push origin master
+
+
