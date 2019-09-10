@@ -3,5 +3,7 @@ new file addition
 	git add .
 	git commit -a -m "your commnet"
 	git push origin master
-
-
+	
+	##need to create a new repocitory
+	$ git clone https://github.com/warunaSanjeewa/perl_class.git
+	## the link got form the git download
